@@ -1,4 +1,4 @@
-# Hi, I'm Muhammed Hosny 👋
+# Hi, I'm Mohamed Hosny 👋
 
 🚀 DevOps & Cloud Enthusiast | Linux & Automation Learner
 
@@ -71,7 +71,6 @@ More projects will be added as I continue learning and building.
 
 ---
 
-## 📈 Currently Learning
 
 ## 📈 Currently Learning
 
