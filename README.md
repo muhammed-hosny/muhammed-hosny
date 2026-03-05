@@ -44,6 +44,10 @@ I enjoy working with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 </a>
 
+<a href="https://www.ansible.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
+</a>
+
 <a href="https://www.gnu.org/software/bash/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
 </a>
@@ -66,6 +70,7 @@ I enjoy working with:
 🐧 Linux Automation Scripts  
 📦 Docker Practice Projects  
 ⚙️ CI/CD Pipeline Experiments  
+🔄 Ansible Automation Playbooks
 
 More projects will be added as I continue learning and building.
 
@@ -89,10 +94,12 @@ More projects will be added as I continue learning and building.
 </a>
 
 </p>
+
 ---
 
 ## 📊 GitHub Stats
 ![Muhammed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muhammed-hosny&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me
