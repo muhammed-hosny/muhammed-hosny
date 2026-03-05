@@ -73,6 +73,8 @@ More projects will be added as I continue learning and building.
 
 ## 📈 Currently Learning
 
+## 📈 Currently Learning
+
 <p align="left">
 
 <a href="https://kubernetes.io/" target="_blank">
@@ -84,17 +86,15 @@ More projects will be added as I continue learning and building.
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50"/>
 </a>
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammed-hosny&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammed-hosny&show_icons=true&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
