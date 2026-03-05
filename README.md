@@ -48,6 +48,10 @@ I enjoy working with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
 </a>
 
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
+</a>
+
 <a href="https://www.gnu.org/software/bash/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
 </a>
@@ -70,7 +74,8 @@ I enjoy working with:
 🐧 Linux Automation Scripts  
 📦 Docker Practice Projects  
 ⚙️ CI/CD Pipeline Experiments  
-🔄 Ansible Automation Playbooks
+🔄 Ansible Automation Playbooks  
+🏗️ Jenkins Pipeline Projects
 
 More projects will be added as I continue learning and building.
 
