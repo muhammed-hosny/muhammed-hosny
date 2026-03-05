@@ -85,16 +85,15 @@ More projects will be added as I continue learning and building.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
 </a>
 
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50"/>
+<a href="https://aws.amazon.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
 </a>
 
 </p>
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammed-hosny&show_icons=true&theme=tokyonight)
+![Muhammed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muhammed-hosny&show_icons=true&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
